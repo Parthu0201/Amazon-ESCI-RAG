@@ -1,7 +1,9 @@
 venv/
 .venv/
 /data/
-outputs/
+outputs/*
+!outputs/**/
+!outputs/**/.gitkeep
 vectorstore/
 __pycache__/
 *.pyc
