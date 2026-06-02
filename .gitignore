@@ -4,7 +4,9 @@ venv/
 outputs/*
 !outputs/**/
 !outputs/**/.gitkeep
-vectorstore/
+vectorstore/*
+!vectorstore/**/
+!vectorstore/**/.gitkeep
 __pycache__/
 *.pyc
 .DS_Store
