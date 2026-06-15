@@ -11,12 +11,12 @@ logger = logging.getLogger(__name__)
 
 def create_sample_dataset(
     input_path: str = "data/processed/retrieval_dataset.parquet",
-    output_path: str = "data/samples/retrieval_sample_10000.parquet",
-    sample_size: int = 10000,
+    output_path: str = "data/samples/retrieval_sample_50000.parquet",
+    sample_size: int = 50000,
     random_seed: int = 42
 ) -> None:
     """
-    Creates a sampled subset of the retrieval dataset for fast testing and development.
+    Creates a sampled subset of the val dataset for fast testing and development.
     
     Reads the full retrieval dataset, removes duplicate products, and randomly
     samples the requested number of unique products. Saves the result as a new Parquet file.

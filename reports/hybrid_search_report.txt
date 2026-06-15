@@ -1,0 +1,8500 @@
+HYBRID SEARCH REPORT
+====================
+
+Query: 100% cranberry juice not from concentrate
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 1.20 sec
+Sparse Retrieval Time: 1.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 2.23 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: columbia bugaboo boots men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: joystar 12 inch balance bike
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: holiday baskets
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: adidas running shoes mens
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ハルメク8月号
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone sdカード
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: tarros de cristal con tapa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: michael kors iwatch band 40mm
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: bose earbuds
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: truck subs for ford f150
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 30
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: breville hervidor
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: cashews without peanut oil
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: kids watches girls
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 12 inch shelf braces
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: free solo film
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: zoom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: キーbox ダイヤル式
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: オムツ替え
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: hogue pistol grip
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: race car onesie
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: women soccer shin guards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mind game
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: haka
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mb series massage chair
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: colgante diamantes
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: エギングホルダー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: non slip socks for toddlers boys
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 16 mm manguera sin gotero
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: gh plancha pelo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dry rub
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: blue giant
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: acrodisc syringe filter 0.2
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: baby christmas sleeper
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: luz de anillo pra fotos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: surtido galletas sin azucar
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ge animation
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 日本自然発酵
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: full/queen fitted sheet
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: バターケース
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: autel im608 pro
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag kids
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: futuro back support for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: monster high
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: plus size skeleton leggings
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lace white dress for maternity photoshooy
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: pastillas barbacoa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volleyball
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 1 cinturones sin hebilla
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: la la land vinyl
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ミツカン 黒酢りんご
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: snow joe snow blower cordless
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sundown audio 12 inch subwoofer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: celtic eucharist
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: タミヤ メタルプライマー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: heavy sweaters for women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: perchas bebe pequeñas madera
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: garden of life
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: rip jeans
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: メンズ モコモコパジャマ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 睦月影郎
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lsbrador retriever christmas cards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: chillum pipe
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 3d scanner for 3d printer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone car holder
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.05 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: american outdoor grills
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: apple dongle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag wide
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: trough sinks for bathroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: play it again sam
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: call of duty modern warfare
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: wine rack wall set of 5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 首 サポーター
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ふるたんぐないふ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: seattle seahawks sweatpants
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 変態王子と笑わない猫
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: closet organizers and storage bins
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: grey shaggy rug for bedroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 25
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: fujifilm x-a5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: jacket
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: aaron blakey
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: all white jordans for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: black vinyl placemat
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: durexina
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 耐熱 樹脂
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: j7 crown phone case pink camo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: brash sneakers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: アームハンマー デオドラント
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: correa para perros muelle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: speck iphone xr case
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volcom flip flops women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: magic bumpers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: forever postage stamps
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dvd players for tv
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: frigorifico balay cristal blanco
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: glade automatic spray refill
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: phone cup holder for car
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 2 fundas silla sin brazos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: oversized bears
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 100% cranberry juice not from concentrate
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 1.15 sec
+Sparse Retrieval Time: 1.06 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 2.21 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: columbia bugaboo boots men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: joystar 12 inch balance bike
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: holiday baskets
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: adidas running shoes mens
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ハルメク8月号
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone sdカード
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: tarros de cristal con tapa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: michael kors iwatch band 40mm
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: bose earbuds
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: truck subs for ford f150
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 30
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: breville hervidor
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: cashews without peanut oil
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: kids watches girls
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 12 inch shelf braces
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: free solo film
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: zoom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: キーbox ダイヤル式
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: オムツ替え
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: hogue pistol grip
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: race car onesie
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: women soccer shin guards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mind game
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: haka
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mb series massage chair
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: colgante diamantes
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: エギングホルダー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: non slip socks for toddlers boys
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 16 mm manguera sin gotero
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: gh plancha pelo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dry rub
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: blue giant
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: acrodisc syringe filter 0.2
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: baby christmas sleeper
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: luz de anillo pra fotos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: surtido galletas sin azucar
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ge animation
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.05 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 日本自然発酵
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: full/queen fitted sheet
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: バターケース
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: autel im608 pro
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag kids
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: futuro back support for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: monster high
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: plus size skeleton leggings
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lace white dress for maternity photoshooy
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: pastillas barbacoa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volleyball
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 1 cinturones sin hebilla
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: la la land vinyl
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ミツカン 黒酢りんご
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: snow joe snow blower cordless
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sundown audio 12 inch subwoofer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: celtic eucharist
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: タミヤ メタルプライマー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: heavy sweaters for women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: perchas bebe pequeñas madera
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: garden of life
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: rip jeans
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: メンズ モコモコパジャマ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 睦月影郎
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lsbrador retriever christmas cards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: chillum pipe
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 3d scanner for 3d printer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone car holder
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: american outdoor grills
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: apple dongle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag wide
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: trough sinks for bathroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: play it again sam
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: call of duty modern warfare
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: wine rack wall set of 5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 首 サポーター
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ふるたんぐないふ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: seattle seahawks sweatpants
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 変態王子と笑わない猫
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: closet organizers and storage bins
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: grey shaggy rug for bedroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 25
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: fujifilm x-a5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: jacket
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: aaron blakey
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: all white jordans for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: black vinyl placemat
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: durexina
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 耐熱 樹脂
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: j7 crown phone case pink camo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: brash sneakers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: アームハンマー デオドラント
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: correa para perros muelle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: speck iphone xr case
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volcom flip flops women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: magic bumpers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: forever postage stamps
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dvd players for tv
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: frigorifico balay cristal blanco
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: glade automatic spray refill
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: phone cup holder for car
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 2 fundas silla sin brazos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: oversized bears
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 100% cranberry juice not from concentrate
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 3.05 sec
+Sparse Retrieval Time: 1.43 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 4.48 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: columbia bugaboo boots men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: joystar 12 inch balance bike
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: holiday baskets
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: adidas running shoes mens
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ハルメク8月号
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone sdカード
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: tarros de cristal con tapa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: michael kors iwatch band 40mm
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: bose earbuds
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: truck subs for ford f150
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 30
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: breville hervidor
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: cashews without peanut oil
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: kids watches girls
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 12 inch shelf braces
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: free solo film
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: zoom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: キーbox ダイヤル式
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: オムツ替え
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: hogue pistol grip
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: race car onesie
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: women soccer shin guards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mind game
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: haka
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mb series massage chair
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: colgante diamantes
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: エギングホルダー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: non slip socks for toddlers boys
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 16 mm manguera sin gotero
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: gh plancha pelo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dry rub
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: blue giant
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: acrodisc syringe filter 0.2
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: baby christmas sleeper
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: luz de anillo pra fotos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: surtido galletas sin azucar
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ge animation
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 日本自然発酵
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: full/queen fitted sheet
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: バターケース
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: autel im608 pro
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag kids
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.10 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.14 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.04 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: futuro back support for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: monster high
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: plus size skeleton leggings
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lace white dress for maternity photoshooy
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: pastillas barbacoa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volleyball
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 1 cinturones sin hebilla
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: la la land vinyl
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ミツカン 黒酢りんご
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: snow joe snow blower cordless
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sundown audio 12 inch subwoofer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: celtic eucharist
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: タミヤ メタルプライマー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: heavy sweaters for women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: perchas bebe pequeñas madera
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: garden of life
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: rip jeans
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: メンズ モコモコパジャマ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 睦月影郎
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lsbrador retriever christmas cards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: chillum pipe
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 3d scanner for 3d printer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone car holder
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: american outdoor grills
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: apple dongle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag wide
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: trough sinks for bathroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: play it again sam
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: call of duty modern warfare
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: wine rack wall set of 5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 首 サポーター
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ふるたんぐないふ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: seattle seahawks sweatpants
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 変態王子と笑わない猫
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: closet organizers and storage bins
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: grey shaggy rug for bedroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 25
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: fujifilm x-a5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: jacket
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: aaron blakey
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: all white jordans for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: black vinyl placemat
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: durexina
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 耐熱 樹脂
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: j7 crown phone case pink camo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: brash sneakers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: アームハンマー デオドラント
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: correa para perros muelle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: speck iphone xr case
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volcom flip flops women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: magic bumpers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: forever postage stamps
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dvd players for tv
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: frigorifico balay cristal blanco
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: glade automatic spray refill
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: phone cup holder for car
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 2 fundas silla sin brazos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: oversized bears
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 10
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 100% cranberry juice not from concentrate
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 1.20 sec
+Sparse Retrieval Time: 1.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 2.23 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: columbia bugaboo boots men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: joystar 12 inch balance bike
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.05 sec
+Sparse Retrieval Time: 0.04 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: holiday baskets
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: adidas running shoes mens
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ハルメク8月号
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone sdカード
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: tarros de cristal con tapa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: michael kors iwatch band 40mm
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: bose earbuds
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.11 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.12 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: truck subs for ford f150
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 30
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: breville hervidor
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: cashews without peanut oil
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: kids watches girls
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 12 inch shelf braces
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: free solo film
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: zoom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: キーbox ダイヤル式
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: オムツ替え
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: hogue pistol grip
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: race car onesie
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: women soccer shin guards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mind game
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: haka
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mb series massage chair
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: colgante diamantes
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: エギングホルダー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: non slip socks for toddlers boys
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 16 mm manguera sin gotero
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: gh plancha pelo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dry rub
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.09 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.11 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: blue giant
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: acrodisc syringe filter 0.2
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: baby christmas sleeper
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: luz de anillo pra fotos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: surtido galletas sin azucar
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ge animation
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 日本自然発酵
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.09 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: full/queen fitted sheet
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: バターケース
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: autel im608 pro
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag kids
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: futuro back support for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: monster high
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: plus size skeleton leggings
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lace white dress for maternity photoshooy
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: pastillas barbacoa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volleyball
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 1 cinturones sin hebilla
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: la la land vinyl
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ミツカン 黒酢りんご
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: snow joe snow blower cordless
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sundown audio 12 inch subwoofer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: celtic eucharist
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: タミヤ メタルプライマー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: heavy sweaters for women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: perchas bebe pequeñas madera
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: garden of life
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: rip jeans
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: メンズ モコモコパジャマ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 睦月影郎
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lsbrador retriever christmas cards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.09 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: chillum pipe
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 3d scanner for 3d printer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone car holder
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: american outdoor grills
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: apple dongle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag wide
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: trough sinks for bathroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: play it again sam
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: call of duty modern warfare
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: wine rack wall set of 5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 首 サポーター
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ふるたんぐないふ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: seattle seahawks sweatpants
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 変態王子と笑わない猫
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: closet organizers and storage bins
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.07 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: grey shaggy rug for bedroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 25
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: fujifilm x-a5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: jacket
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: aaron blakey
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: all white jordans for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: black vinyl placemat
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: durexina
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.00 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 耐熱 樹脂
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: j7 crown phone case pink camo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: brash sneakers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: アームハンマー デオドラント
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: correa para perros muelle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: speck iphone xr case
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volcom flip flops women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: magic bumpers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.02 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.03 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: forever postage stamps
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dvd players for tv
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: frigorifico balay cristal blanco
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: glade automatic spray refill
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.09 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: phone cup holder for car
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 2 fundas silla sin brazos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: oversized bears
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.09 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 100% cranberry juice not from concentrate
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 1.52 sec
+Sparse Retrieval Time: 1.39 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 2.91 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: columbia bugaboo boots men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: joystar 12 inch balance bike
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.11 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: holiday baskets
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: adidas running shoes mens
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ハルメク8月号
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.09 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone sdカード
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: tarros de cristal con tapa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.09 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: michael kors iwatch band 40mm
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: bose earbuds
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: truck subs for ford f150
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 30
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: breville hervidor
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: cashews without peanut oil
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.05 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: kids watches girls
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.09 sec
+Sparse Retrieval Time: 0.04 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.14 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 12 inch shelf braces
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: free solo film
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: zoom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: キーbox ダイヤル式
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: オムツ替え
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.12 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.13 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: hogue pistol grip
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: race car onesie
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: women soccer shin guards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mind game
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.15 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.16 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: haka
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: mb series massage chair
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.05 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: colgante diamantes
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: エギングホルダー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: non slip socks for toddlers boys
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 16 mm manguera sin gotero
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: gh plancha pelo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dry rub
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: blue giant
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: acrodisc syringe filter 0.2
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: baby christmas sleeper
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: luz de anillo pra fotos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: surtido galletas sin azucar
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.07 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ge animation
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 日本自然発酵
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: full/queen fitted sheet
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: バターケース
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: autel im608 pro
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag kids
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.04 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: futuro back support for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: monster high
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: plus size skeleton leggings
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lace white dress for maternity photoshooy
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: pastillas barbacoa
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.14 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.15 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volleyball
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 1 cinturones sin hebilla
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: la la land vinyl
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ミツカン 黒酢りんご
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: snow joe snow blower cordless
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sundown audio 12 inch subwoofer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: celtic eucharist
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: タミヤ メタルプライマー
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: heavy sweaters for women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 38
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: perchas bebe pequeñas madera
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: garden of life
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: rip jeans
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: メンズ モコモコパジャマ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 睦月影郎
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: lsbrador retriever christmas cards
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: chillum pipe
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 3d scanner for 3d printer
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: iphone car holder
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: american outdoor grills
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: apple dongle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: sleeping bag wide
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: trough sinks for bathroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: play it again sam
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: call of duty modern warfare
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: wine rack wall set of 5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 首 サポーター
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: ふるたんぐないふ
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: seattle seahawks sweatpants
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 変態王子と笑わない猫
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: closet organizers and storage bins
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 28
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: grey shaggy rug for bedroom
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 25
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.10 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: fujifilm x-a5
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: jacket
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 31
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: aaron blakey
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.06 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.07 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: all white jordans for men
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: black vinyl placemat
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: durexina
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 耐熱 樹脂
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: j7 crown phone case pink camo
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: brash sneakers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 34
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: アームハンマー デオドラント
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 40
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: correa para perros muelle
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: speck iphone xr case
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 29
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.09 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.13 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: volcom flip flops women
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 33
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: magic bumpers
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.01 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.04 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: forever postage stamps
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 35
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: dvd players for tv
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: frigorifico balay cristal blanco
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 32
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.03 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.05 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: glade automatic spray refill
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 39
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: phone cup holder for car
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 27
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.05 sec
+Sparse Retrieval Time: 0.04 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.09 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: 2 fundas silla sin brazos
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 36
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.05 sec
+Sparse Retrieval Time: 0.03 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.08 sec
+
+HYBRID SEARCH REPORT
+====================
+
+Query: oversized bears
+Dense Results Retrieved: 20
+Sparse Results Retrieved: 20
+Merged Results: 37
+Final Results Returned: 20
+
+Vector Weight: 0.7
+BM25 Weight: 0.3
+
+Dense Retrieval Time : 0.04 sec
+Sparse Retrieval Time: 0.02 sec
+Fusion Time          : 0.00 sec
+Total Search Time    : 0.06 sec
+

@@ -1,0 +1,131 @@
+==================================================
+AMAZON ESCI DATASET ANALYSIS
+============================
+
+## Dataset Shape
+
+Rows: 2,621,284
+Columns: 9
+
+## Unique Counts
+
+Unique Queries : 130,192
+Unique Products: 1,802,771
+
+## Train/Test Split
+
+Train : 1,983,268 (75.66%)
+Test  :   638,016 (24.34%)
+
+## ESCI Distribution
+
+E : 1,708,155 (65.16%)
+S :   574,312 (21.91%)
+I :   263,165 (10.04%)
+C :    75,652 (2.89%)
+
+## Top Queries
+
+airpods: 233
+tv: 214
+laptop: 209
+ipad: 181
+ssd: 176
+apple watch: 160
+shoes: 158
+printer: 152
+nike: 150
+kindle: 144
+iphone: 144
+dildo: 142
+wireless earbuds: 136
+monitor: 127
+apple watch series 3: 126
+chromebook: 113
+ps4: 113
+adidas: 112
+tablet: 111
+nintendo switch: 110
+
+## Missing Values (NULL)
+
+query                : 0
+product_id           : 0
+product_title        : 0
+product_brand        : 0
+product_bullet_point : 0
+product_description  : 0
+product_text         : 0
+esci_label           : 0
+split                : 0
+
+## Empty String Analysis
+
+query                : 0
+product_id           : 0
+product_title        : 1
+product_brand        : 166,888
+product_bullet_point : 364,767
+product_description  : 1,348,999
+product_text         : 1
+esci_label           : 0
+split                : 0
+
+## Query Statistics
+
+Average Query Length : 19.52
+Maximum Query Length : 171
+Minimum Query Length : 1
+
+## Product Statistics
+
+Average Product Length : 1,037.89
+Maximum Product Length : 8,771
+Minimum Product Length : 0
+
+## Query Coverage Analysis
+
+Queries with only E         : 32,296
+
+Queries with E + S          : 38,414
+
+Queries with E + S + C      : 7,255
+
+Queries with E + S + C + I  : 10,220
+
+## Products Per Query
+
+Average Products Per Query : 20.13
+Maximum Products Per Query : 233
+Minimum Products Per Query : 8
+
+## ESCI Query Coverage
+
+Queries containing E : 130,191
+
+Queries containing S : 81,341
+
+Queries containing C : 22,710
+
+Queries containing I : 49,177
+
+## Dataset Memory Usage
+
+9,572.96 MB
+
+## Data Quality Notes
+
+The retrieval_dataset.parquet file is a processed dataset.
+Missing values were replaced during preprocessing using fillna("").
+
+Therefore:
+
+# Missing Values (NULL)
+Current NULL values in the processed dataset.
+
+# Empty String Values
+Fields where missing information was converted into empty strings.
+
+A value of 0 in the Missing Values section does not imply that the original source data contained no missing information.
+
+==================================================

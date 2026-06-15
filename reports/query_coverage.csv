@@ -1,0 +1,5 @@
+coverage_type,count
+Queries with only E,32296
+Queries with E + S,38414
+Queries with E + S + C,7255
+Queries with E + S + C + I,10220

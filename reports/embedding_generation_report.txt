@@ -1,0 +1,9 @@
+Embedding Generation Report
+===========================
+Model Name: BAAI/bge-small-en-v1.5
+Embedding Dimension: 384
+Total Products: 10000
+Unique Products: 10000
+Empty Products Removed: 0
+Embedding Shape: (10000, 384)
+Runtime: 24.74 minutes

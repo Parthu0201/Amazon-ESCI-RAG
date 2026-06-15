@@ -1,15 +1,25 @@
 venv/
 .venv/
 /data/
-outputs/*
-!outputs/**/
-!outputs/**/.gitkeep
-vectorstore/*
-!vectorstore/**/
-!vectorstore/**/.gitkeep
 __pycache__/
 *.pyc
 .DS_Store
+debug.py
+output.txt
+
+# outputs — keep folder structure only
+outputs/*
+!outputs/**/
+!outputs/**/.gitkeep
+
+# models — keep folder structure only
 models/*
 !models/**/
 !models/**/.gitkeep
+
+# vectorstore — ignore large binaries and Qdrant runtime, keep structure
+vectorstore/embeddings/*.npy
+vectorstore/metadata/*.parquet
+vectorstore/qdrant_db/.lock
+vectorstore/qdrant_db/collection/
+vectorstore/qdrant_db/meta.json

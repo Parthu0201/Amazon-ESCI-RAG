@@ -1,0 +1,15 @@
+QDRANT COLLECTION REPORT
+========================
+
+Collection Name: esci_products
+Points Count: 10000
+Vector Dimension: 384
+Distance Metric: COSINE
+Embedding Model: BAAI/bge-small-en-v1.5
+Batch Size: 1000
+
+Data Loading Time: 0.70 sec
+Collection Creation Time: 0.04 sec
+Upload Time: 178.14 sec
+Verification Time: 0.00 sec
+Total Runtime: 2.98 min

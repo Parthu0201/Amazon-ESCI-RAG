@@ -1,0 +1,3000 @@
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 100% cranberry juice not from concentrate
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 2.24 sec
+Reranking Time: 8.26 sec
+Total Runtime: 10.50 sec
+
+Top Product ID: B07VXCCWX6
+Top Product Title: POMONA Organic Pure Strawberry Juice, 8.4 Oz Bottle (Pack of 12), Cold Pressed Organic Juice, NonGMO, No Sugar Added, Not from Concentrate, Gluten Free, Kosher Certified, Preservative Free, 100.8 Oz
+Top Rerank Score: 3.21
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: columbia bugaboo boots men
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.39 sec
+Total Runtime: 1.45 sec
+
+Top Product ID: B07JB9CF8G
+Top Product Title: Columbia Men's Bugaboo II Pant, Burnished Amber ,Medium Regular, standard
+Top Rerank Score: 7.39
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: joystar 12 inch balance bike
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 1.83 sec
+Total Runtime: 1.94 sec
+
+Top Product ID: B07J5FZH77
+Top Product Title: JOYSTAR 12 Inch Balance Bike for Boys 2 3 4 5 Years Old 12" Toddler Push Bike with Footboard and Handlebar Protect Pad Child Glider Cycle Kids Slider Blue
+Top Rerank Score: 9.21
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: holiday baskets
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.55 sec
+Total Runtime: 1.59 sec
+
+Top Product ID: B06XWFNPWP
+Top Product Title: Leather Storage Basket,MDF Structure Wine Flowers Fruits Magazine Holder Rack/Bins,with Top Handle for Holiday Presents Gifts Display (Small, Coffee)
+Top Rerank Score: 4.16
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: adidas running shoes mens
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 0.70 sec
+Total Runtime: 0.76 sec
+
+Top Product ID: B071P19D3X
+Top Product Title: adidas mens Lite Racer Byd Running Shoe, Black/White/Black, 10.5 US
+Top Rerank Score: 8.73
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ハルメク8月号
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.90 sec
+Total Runtime: 1.95 sec
+
+Top Product ID: B08NJH7X71
+Top Product Title: 月刊マーチャンダイジング2017年9月号
+Top Rerank Score: 8.72
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: iphone sdカード
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.61 sec
+Total Runtime: 1.67 sec
+
+Top Product ID: B06XRX655J
+Top Product Title: iPhone iPad専用Lightning SDカードカメラリーダー 写真/ビデオ転送 microメモリSDカードリーダー(ホワイト)
+Top Rerank Score: 8.44
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: tarros de cristal con tapa
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.60 sec
+Total Runtime: 1.66 sec
+
+Top Product ID: B00JFWP4Q4
+Top Product Title: Brabantia 298288 - Tarro de Cristal, 0.6 L, Tapa Gris Oscuro
+Top Rerank Score: 7.75
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: michael kors iwatch band 40mm
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.77 sec
+Total Runtime: 1.83 sec
+
+Top Product ID: B07YC6DX69
+Top Product Title: Tobfit 4 Pack Compatible with Apple Watch Band 38mm 42mm 40mm 44mm, Soft Silicone Replacement Band Compatible with iWatch Series 6 5 4 3 SE (Black/Gray/Navy Blue/Wine Red, 42mm/44mm M/L)
+Top Rerank Score: 2.52
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: bose earbuds
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.15 sec
+Reranking Time: 1.75 sec
+Total Runtime: 1.90 sec
+
+Top Product ID: B07JJCW86D
+Top Product Title: Bose Soundsport Free Wireless Charging Case (Black)
+Top Rerank Score: 0.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: truck subs for ford f150
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.56 sec
+Total Runtime: 1.63 sec
+
+Top Product ID: B00M8AJ2W2
+Top Product Title: ASC FORD2X10-01-03-CREW Compatible with Ford F-150 Super Crew Truck 2001-2003 Bundle with FORD-00-03-LIFT-KIT Seat Extension Lift Kit Sub Box Enclosure
+Top Rerank Score: 3.51
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: breville hervidor
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.65 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B01B0YT0E6
+Top Product Title: Russell Hobbs Hervidor de Agua Eléctrico Textures - 2400 W, 1,7 litros, Plástico Alto Brillo, sin BPA, Filtro Extraíble, Negro - 22591-70
+Top Rerank Score: -1.41
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: cashews without peanut oil
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.81 sec
+Total Runtime: 1.88 sec
+
+Top Product ID: B078J54L3K
+Top Product Title: PLANTERS Fancy Whole Cashews with Sea Salt, 26 oz. Resealable Jar - Made with Simple Ingredients - Good Source of Vitamins and Minerals - Kosher
+Top Rerank Score: 2.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: kids watches girls
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.58 sec
+Total Runtime: 1.64 sec
+
+Top Product ID: B07G5JFH5Q
+Top Product Title: Skechers Kids Girl's Twinkle Breeze 2.0-Sparkle DU Sneaker, Silver/Multi, 3 Medium US Little Kid
+Top Rerank Score: 5.57
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 12 inch shelf braces
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.64 sec
+Total Runtime: 1.70 sec
+
+Top Product ID: B087BX54TY
+Top Product Title: Shelf Brackets 12 Inch, Heavy Duty Industrial Iron Floating Shelf Bracket, Decorative Rustic Farmhouse Metal L Bracket with Lips - 4 Pack
+Top Rerank Score: 4.99
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: free solo film
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.86 sec
+Total Runtime: 1.92 sec
+
+Top Product ID: B082M3QQZ2
+Top Product Title: 4 Pieces Car Rearview Mirror Film Rainproof Waterproof Mirror Film Anti Fog Clear Nano Coating Car Film for Car Rear View Mirrors Side Windows
+Top Rerank Score: -6.97
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: zoom
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.68 sec
+
+Top Product ID: B01MTJ20QY
+Top Product Title: Zoom Q2n Zoom Handy Video Recorder (Black)
+Top Rerank Score: 3.27
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: キーbox ダイヤル式
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 0.36 sec
+Total Runtime: 0.41 sec
+
+Top Product ID: B00NEJ5YR8
+Top Product Title: ノムラテック カギの収納BOX NEW キーストック ハンディ シルバー N-1297
+Top Rerank Score: 8.51
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: オムツ替え
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.67 sec
+Total Runtime: 1.72 sec
+
+Top Product ID: 4905122678
+Top Product Title: おやさいどうぞ (0〜5歳児向け コクヨのしかけ絵本)
+Top Rerank Score: 8.93
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: hogue pistol grip
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.85 sec
+Total Runtime: 1.90 sec
+
+Top Product ID: B004WYH00S
+Top Product Title: Hogue 17210 HandAll Grip Sleeve, Tactical, Large Black, Multi
+Top Rerank Score: 7.28
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: race car onesie
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.69 sec
+
+Top Product ID: B07TYV23CJ
+Top Product Title: Racing is in My DNA -Cute Car Racing Outdoor Sports Baby Bodysuit Onesie & bib Pink
+Top Rerank Score: 3.70
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: women soccer shin guards
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.62 sec
+Total Runtime: 1.68 sec
+
+Top Product ID: B07LHJQYBN
+Top Product Title: adidas X PRO Soccer Shin Guards , Bright Cyan/Black/Shock Pink , L
+Top Rerank Score: 3.01
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: mind game
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.81 sec
+Total Runtime: 1.86 sec
+
+Top Product ID: B08SJ33S4K
+Top Product Title: 31 Pieces Brain Teaser Metal and Wooden Puzzle Set, Unlock Interlock Intelligence Game Brain Handheld Disentanglement Game 3D Wire Chain and Durable Wood Educational IQ Logic Test Wooden Toy for Adult
+Top Rerank Score: -3.64
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: haka
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.13 sec
+Reranking Time: 0.66 sec
+Total Runtime: 0.80 sec
+
+Top Product ID: B00TRZ0KAE
+Top Product Title: HAKU(ハク) ハク アクティブメラノリリーサー (つめかえ用) 美白化粧水 100mL 【医薬部外品】 レフィル 100ミリリットル (x 1)
+Top Rerank Score: 2.07
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: mb series massage chair
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.69 sec
+
+Top Product ID: B088NB61MZ
+Top Product Title: Massage Chair, Zero Gravity Massage Chair, Full Body Shiatsu Massage Recliner with Heat Function, Foot Roller, Led Light, LCD Wired Remote Control, Elastic Calves Section, Black
+Top Rerank Score: 0.03
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: colgante diamantes
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.65 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B00492BDLU
+Top Product Title: Tuscany Silver 8.44.7594 Cadena con colgante de plata, diamante (0.04), 46 cm, Letra R
+Top Rerank Score: 3.55
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: エギングホルダー
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.71 sec
+Total Runtime: 1.76 sec
+
+Top Product ID: B07MX3H9GK
+Top Product Title: エギホルダー用 エギ安全カバー エギング 6個セット カラビナ付き イカメタル スッテ プラ角などに ワンロック ランダムカラー
+Top Rerank Score: 8.38
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: non slip socks for toddlers boys
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 1.66 sec
+Total Runtime: 1.78 sec
+
+Top Product ID: B06XJYF2LZ
+Top Product Title: LA Active Newborn Baby Socks 12-36 Months - 6 Pairs of Infant & Toddler Socks for Girls and Boys with Non-Slip Grip - Ankle Style - Boys
+Top Rerank Score: 8.09
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 16 mm manguera sin gotero
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.70 sec
+
+Top Product ID: B098K71ZH2
+Top Product Title: spaire Manguera/Tubería de Jardín, para Goteo/Riego Individual con Juego Completo de Accesorios, Manguera Flexible Porosa Riego, 13mm x 50 m, Materia Reciclada, Negro
+Top Rerank Score: 1.34
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: gh plancha pelo
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.68 sec
+Total Runtime: 1.74 sec
+
+Top Product ID: B08Y98WBS5
+Top Product Title: ghd max - Plancha de pelo profesional con placas anchas para cabello largo, grueso o rizado, tecnología dual zone, negra
+Top Rerank Score: 7.24
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: dry rub
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.13 sec
+Reranking Time: 1.79 sec
+Total Runtime: 1.93 sec
+
+Top Product ID: B0968GJC67
+Top Product Title: Dazzle Dry Nail Lacquer - Foxy, a full coverage warm, light gray. Full coverage cream. (0.5 fl oz)
+Top Rerank Score: -2.35
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: blue giant
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.68 sec
+
+Top Product ID: B00QMEE06S
+Top Product Title: BLUE GIANT（３） (ビッグコミックス)
+Top Rerank Score: 7.73
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: acrodisc syringe filter 0.2
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.60 sec
+Total Runtime: 1.66 sec
+
+Top Product ID: B071JXY9Q4
+Top Product Title: Pall 4652 Acrodisc Syringe Filters with Super Membrane, Sterile, 0.2 µm, 32mm, Pack of 50
+Top Rerank Score: 6.82
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: baby christmas sleeper
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.86 sec
+Total Runtime: 1.92 sec
+
+Top Product ID: B081XBFLQ6
+Top Product Title: Kuriozud Newborn Baby Girl Boy Footed Sleeper Reindeer One Piece Romper Jumpsuit Clothes (Christmas Footed Romper, 0-3 Months)
+Top Rerank Score: 5.02
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: luz de anillo pra fotos
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.68 sec
+Total Runtime: 1.75 sec
+
+Top Product ID: B07RXV83DB
+Top Product Title: Flybiz LED Luz de Anillo con Trípode Palillo de Selfie, Mini luz de Anillo LED de Escritorio Regulable de 10W 2800K-5500K, Video de Youtube y Maquillaje Selfie, Kit de Luces de Anillo
+Top Rerank Score: 3.60
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: surtido galletas sin azucar
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.61 sec
+Total Runtime: 1.67 sec
+
+Top Product ID: B08PBLF38D
+Top Product Title: MILOLA Galletas Gluten Free. Pack 6 Cajas de 140gr - Sin Gluten, Sin Lácteos, Sin Aceite de Palma (HAZELNUT + CHOCO XIPS)
+Top Rerank Score: 2.26
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ge animation
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 0.91 sec
+Total Runtime: 1.05 sec
+
+Top Product ID: B01AZC61XC
+Top Product Title: GE Animation GE-52694 Sword Art Online 9" Lizbeth Stuffed Plush, Multi-Colored
+Top Rerank Score: 7.40
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 日本自然発酵
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 1.56 sec
+Total Runtime: 1.69 sec
+
+Top Product ID: B0031Y7HHG
+Top Product Title: 白井産業 日本製 ミニサイズベビー敷布団 60cm×90cm 固綿 二つ折れタイプ ホワイト 107434
+Top Rerank Score: 9.03
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: full/queen fitted sheet
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.59 sec
+Total Runtime: 1.64 sec
+
+Top Product ID: B019J3R8AS
+Top Product Title: Bare Home Fitted Bottom Sheet Queen - Premium 1800 Microfiber - Ultra-Soft Wrinkle Free - Deep Pocket - Queen Fitted Sheet (Queen, Dark Blue)
+Top Rerank Score: 7.47
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: バターケース
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 0.39 sec
+Total Runtime: 0.44 sec
+
+Top Product ID: B00V4OP0JM
+Top Product Title: バンドファイル リングタイプ 20ポケット(40ページ) パープル
+Top Rerank Score: 8.80
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: autel im608 pro
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.67 sec
+Total Runtime: 1.72 sec
+
+Top Product ID: B07F2QZ6MM
+Top Product Title: Autel MaxiDiag MD808 Pro with 5ft Extension Cable All System OBDII Scanner(Advanced MaxiCheck Pro and MD802) Oil and Battery Reset Registration, Parking Brake Pad Relearn,SAS,SRS,ABS,EPB,DPF,BMS
+Top Rerank Score: 4.60
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: sleeping bag kids
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.87 sec
+Total Runtime: 1.93 sec
+
+Top Product ID: B07ZPF1JYL
+Top Product Title: LOL Surprise Giftable Sleepover Set with Sleeping Bag, Pillow & Bonus Eye Mask, Ages 3+, Pink
+Top Rerank Score: 5.33
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.69 sec
+Total Runtime: 1.77 sec
+
+Top Product ID: B089KKFKSS
+Top Product Title: Miquelrius - Pack 5 Cuadernos Cuadriculados, Tamaño Folio 215 x 309 mm, Espiral, Cubierta de Polipropileno Translúcido, 80 Hojas de 90 g/m², Cuadrícula de 4 mm con Margen, Mensajes, Multicolor
+Top Rerank Score: 5.06
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: futuro back support for men
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.67 sec
+Total Runtime: 1.73 sec
+
+Top Product ID: B07DDDCWSM
+Top Product Title: ProFitness Weightlifting Belt (4 Inches Wide) – Genuine Leather Lifting Belt - Great Back Support during Squats, Deadlifts, Lunges, Cross Training & Weight Training (Black/White, MEDIUM)
+Top Rerank Score: -1.11
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: monster high
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.80 sec
+Total Runtime: 1.88 sec
+
+Top Product ID: B00TYJV6EW
+Top Product Title: Monster High Fright-Mares Skyra Bouncegait Doll
+Top Rerank Score: 6.67
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: plus size skeleton leggings
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.64 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B0895D5JZ1
+Top Product Title: Handyulong Womens Ripped Skinny Jeans High Waisted Stretch Destroyed Denim Pants Slim Pencil Pants Jegging Sweatpants
+Top Rerank Score: 0.06
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: lace white dress for maternity photoshooy
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.70 sec
+
+Top Product ID: B07DXSCM5N
+Top Product Title: Jezero Women's Maternity Dress Off Shoulder Ruffle Sleeveless Bodycon Dress for Baby Shower
+Top Rerank Score: 2.27
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: pastillas barbacoa
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.88 sec
+Total Runtime: 1.93 sec
+
+Top Product ID: B00Q54PNQ6
+Top Product Title: FUEGO NET Fuegonet 231281N Pastillas Ecológicas, Blanco, 27x7x40 cm
+Top Rerank Score: -0.81
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: volleyball
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.68 sec
+Total Runtime: 1.73 sec
+
+Top Product ID: B078BFTWFY
+Top Product Title: Nike Womens Zoom Hyperace 2 Volleyball Shoe (7.5 M US, Black/White)
+Top Rerank Score: 1.89
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 1 cinturones sin hebilla
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.69 sec
+
+Top Product ID: B07YDC3MZS
+Top Product Title: Chalier 2 Pack Cinturon Hombre Lona de Nylon Tela Infinitamente Ajustable, Longitud 130 cm, con Hebilla Automática
+Top Rerank Score: 3.40
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: la la land vinyl
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.78 sec
+Total Runtime: 1.83 sec
+
+Top Product ID: B000091Y4V
+Top Product Title: Wasted years/Stranger in a strange land [Vinyl Single]
+Top Rerank Score: -6.93
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ミツカン 黒酢りんご
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.14 sec
+Reranking Time: 1.03 sec
+Total Runtime: 1.17 sec
+
+Top Product ID: B003MTZJIE
+Top Product Title: マギー ココナッツミルク1KG
+Top Rerank Score: 9.38
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: snow joe snow blower cordless
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.71 sec
+Total Runtime: 1.78 sec
+
+Top Product ID: B00LK2SASQ
+Top Product Title: Snow Joe iON13SS 40-Volt iONMAX Cordless Brushless Snow Shovel Kit | 13-Inch | W/ 4.0-Ah Battery and Charger
+Top Rerank Score: 7.06
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: sundown audio 12 inch subwoofer
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.64 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B01NCIG4EX
+Top Product Title: SUNDOWN AUDIO SA-12 V.2 D4 12" Dual 4 OHM 1000W RMS SUBWOOFER BASS Speaker New
+Top Rerank Score: 6.67
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: celtic eucharist
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.88 sec
+Total Runtime: 1.93 sec
+
+Top Product ID: B002BJX10Y
+Top Product Title: Belfast Centenary Eucharist: Sanctus
+Top Rerank Score: -1.25
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: タミヤ メタルプライマー
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 0.42 sec
+Total Runtime: 0.49 sec
+
+Top Product ID: B0000WS03M
+Top Product Title: タミヤ スプレー No.19 TS-19 メタリックブルー プラモデル用塗料 85019
+Top Rerank Score: 9.34
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: heavy sweaters for women
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.75 sec
+Total Runtime: 1.82 sec
+
+Top Product ID: B07GZR5YM4
+Top Product Title: ECOWISH Women's Sweater Rainbow Colorful Striped Sweaters Long Sleeve Crew Neck Color Block Casual Pullover Blouse Tops Navy Blue X-Large
+Top Rerank Score: 4.95
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: perchas bebe pequeñas madera
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.66 sec
+Total Runtime: 1.73 sec
+
+Top Product ID: B07D2KHBRV
+Top Product Title: Hangerworld 12 Perchas de Madera Blanca 30cm para Ropa Infantil Pinzas de Metal para Pantalones Decorada con Animalitos
+Top Rerank Score: 3.30
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: garden of life
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.89 sec
+Total Runtime: 1.95 sec
+
+Top Product ID: B00WS2O9QE
+Top Product Title: Garden of Life Raw Organic Fit Powder - Coffee, Organic & Non-GMO Vegan Nutritional Shake, 10 Servings, 16.40 Ounce
+Top Rerank Score: 6.22
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: rip jeans
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.44 sec
+Total Runtime: 1.49 sec
+
+Top Product ID: B07VFYY571
+Top Product Title: Men's Ripped Distressed Destroyed Slim Fit Straight Leg Denim Jeans,305 Light Blue,Size 32
+Top Rerank Score: 5.19
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: メンズ モコモコパジャマ
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.69 sec
+
+Top Product ID: B08CBX5S1H
+Top Product Title: ビックサイズでエコバッグにも リラックマ バッグコレクション フルコンプ5種セット コリラックマ キイロイトリ
+Top Rerank Score: 8.65
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 睦月影郎
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.32 sec
+Total Runtime: 1.36 sec
+
+Top Product ID: B016K0YQIK
+Top Product Title: 月桂冠 山田錦純米パック [ 日本酒 京都府 1.8L ]
+Top Rerank Score: 8.43
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: lsbrador retriever christmas cards
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 1.74 sec
+Total Runtime: 1.87 sec
+
+Top Product ID: B00XUSJXZC
+Top Product Title: Labrador Retriever - Set of 10 Note Cards with Envelopes
+Top Rerank Score: -0.73
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: chillum pipe
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.60 sec
+Total Runtime: 1.66 sec
+
+Top Product ID: B08X94G4R1
+Top Product Title: 2-Pack Evo Dyne Pipe Cleaner (32oz), Made in the USA | Universal Piece Cleaner | Safe on Glass, Pyrex, Silicone, Ceramics, Metals - Removes Tar & Resin with Soak and Rinse Formula
+Top Rerank Score: -3.49
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 3d scanner for 3d printer
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.69 sec
+Total Runtime: 1.75 sec
+
+Top Product ID: B076B9SXK8
+Top Product Title: HE3D Open Source Ciclop DIY 3D Systems Scanner Kit for 3D Printer Advanced Laser Scanner, Injection molding Plastics Parts
+Top Rerank Score: 7.97
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: iphone car holder
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.86 sec
+Total Runtime: 1.91 sec
+
+Top Product ID: B07Q43DL14
+Top Product Title: Lorima Car Cup Holder Phone Mount, Cup Holder Phone Holder with A Long Flexible Neck for iPhone 13/13 Pro/13 Pro Max, 12 Pro Max/12/11/XS/Samsung Galaxy, Fits All 4-7in Smartphones
+Top Rerank Score: 5.24
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: american outdoor grills
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.71 sec
+Total Runtime: 1.76 sec
+
+Top Product ID: B07B8SYB35
+Top Product Title: AOG American Outdoor Grill Cover for 36-Inch Freestanding Gas Grills - CC36-D
+Top Rerank Score: 8.54
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: apple dongle
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.69 sec
+Total Runtime: 1.74 sec
+
+Top Product ID: B07HHFT4Z2
+Top Product Title: Dongle Dangler 3.5mm Headphone Jack Adapter - Works with iPhone -13/ 13 Pro/ 12/ 12 Pro Max/ 11/ 11 Pro/ 11 Pro Max/ XS/ XS Max/ XR/ X/ 8/ 8 Plus/ 7/ 7 Plus - MFi Certified Adapter (Cable-1 Pack)
+Top Rerank Score: 3.27
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: sleeping bag wide
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.92 sec
+Total Runtime: 1.98 sec
+
+Top Product ID: B01EBCY4AY
+Top Product Title: Hyke & Byke Quandary 650 Fill Power Duck Down 15 Degree Backpacking Sleeping Bag for Adults Cold Weather Sleeping Bag - Synthetic Base - Ultra Lightweight 3 Season Camping Sleeping Bags for Kids Too
+Top Rerank Score: 3.72
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: trough sinks for bathroom
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.72 sec
+Total Runtime: 1.79 sec
+
+Top Product ID: B084JS1HFH
+Top Product Title: Weibath 47 Inch Wall-Mount Double Sink Stone Resin Trough Bathroom Sink with 2 Faucet Holes (Glossy White)
+Top Rerank Score: 4.91
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: play it again sam
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.16 sec
+Total Runtime: 1.22 sec
+
+Top Product ID: B012WFLFL8
+Top Product Title: Bob Books Happy Hats Beginning Reading Game Line
+Top Rerank Score: -4.09
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: call of duty modern warfare
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 0.86 sec
+Total Runtime: 0.92 sec
+
+Top Product ID: B07SC443KW
+Top Product Title: Xbox One - Call of Duty: Modern Warfare - [PAL EU - NO NTSC]
+Top Rerank Score: 7.07
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: wine rack wall set of 5
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.88 sec
+Total Runtime: 1.95 sec
+
+Top Product ID: B08BDK19G3
+Top Product Title: Hin Plus Wine Rack Wall Mounted | Wine Bottle Holder | House & Kitchen & Dining Room Wall Decor (5 Pack, Style B)
+Top Rerank Score: 6.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 首 サポーター
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.69 sec
+Total Runtime: 1.75 sec
+
+Top Product ID: 4569827276
+Top Product Title: ハーバードでいちばん人気の国・日本 なぜ世界最高の知性はこの国に魅了されるのか (PHP新書)
+Top Rerank Score: 8.71
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ふるたんぐないふ
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.04 sec
+Reranking Time: 1.67 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B08HYXNNH5
+Top Product Title: りぶはあと ルームシューズ プレミアムねむねむアニマルズ パグのハナ(23-24.5cm) かわいい 洗える 78106-32
+Top Rerank Score: 8.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: seattle seahawks sweatpants
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.87 sec
+Total Runtime: 1.93 sec
+
+Top Product ID: B01MTKZ0HQ
+Top Product Title: Ultra Game NFL Washington Redskins Mens Jogger Pants Active Basic Fleece Sweatpants, Team Color, Large
+Top Rerank Score: -0.86
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 変態王子と笑わない猫
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 0.69 sec
+Total Runtime: 0.74 sec
+
+Top Product ID: B00I0LKRE0
+Top Product Title: 変態王子と笑わない猫。5 (MFコミックス アライブシリーズ)
+Top Rerank Score: 8.89
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: closet organizers and storage bins
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.14 sec
+Reranking Time: 1.63 sec
+Total Runtime: 1.77 sec
+
+Top Product ID: B07BB316N7
+Top Product Title: Sorbus Storage Bins, Foldable Stackable Container Organizer Set with Large Window & Carry Handles, Bedroom Closet Organization for Bedding, Linen, Clothes (Gray)
+Top Rerank Score: 7.01
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: grey shaggy rug for bedroom
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.67 sec
+Total Runtime: 1.73 sec
+
+Top Product ID: B08CC3YDFY
+Top Product Title: Navy Blue Soft Area Rug for Bedroom,5x8,Fluffy Rugs,Furry Rugs for Living Room,Shaggy Rugs for Girls Boys Room,Fuzzy Rug for Kids Baby Room,Plush Rug for Dorm Nursery,Non-Slip Rug,Navy Blue Carpet
+Top Rerank Score: 5.31
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: fujifilm x-a5
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.84 sec
+Total Runtime: 1.90 sec
+
+Top Product ID: B07X2K426H
+Top Product Title: Neewer Cargador Batería Juego Reemplazo para NP-W126 Compatible con Fujifilm X-T3 X-T2 X-T1 X-A5 X-E3 X-E2 X-E1 X100F X-H1 X-M1 X-Pro2 X-T20 (1500mAh Batería Doble USB)
+Top Rerank Score: 4.84
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: jacket
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.65 sec
+Total Runtime: 1.69 sec
+
+Top Product ID: B01K5U1FMG
+Top Product Title: Columbia Mens Big & Tall Granite Mountain Fleece Jacket (1X, Black)
+Top Rerank Score: 3.40
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: aaron blakey
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.71 sec
+Total Runtime: 1.76 sec
+
+Top Product ID: B08M8KS9BW
+Top Product Title: Victim F: From Crime Victims to Suspects to Survivors
+Top Rerank Score: -3.62
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: all white jordans for men
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.93 sec
+Total Runtime: 2.00 sec
+
+Top Product ID: B01JIPH7H6
+Top Product Title: Nike Men's Sportwear Club Shorts, Dark Grey Heather/White, X-Large
+Top Rerank Score: -2.48
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: black vinyl placemat
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.65 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B096JVGQZQ
+Top Product Title: fadumnle Placemats and Coasters， Set of 6 Heat-Resistant Stain Resistant Non-Slip Placemats for Kitchen Table, Washable Durable PVC Table Mats Woven Vinyl Placemats Black…
+Top Rerank Score: 3.94
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: durexina
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.04 sec
+Reranking Time: 1.66 sec
+Total Runtime: 1.71 sec
+
+Top Product ID: B077S2FVYG
+Top Product Title: OLIVER Caja 2 figuras 12 cm Durexina. (pastor horca)
+Top Rerank Score: 5.25
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 耐熱 樹脂
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.86 sec
+Total Runtime: 1.91 sec
+
+Top Product ID: B01LEBRLEG
+Top Product Title: カーポート用 雨どい部品 雨樋 丸どい(37φ用) 長さ 2m (ブラック)
+Top Rerank Score: 7.82
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: j7 crown phone case pink camo
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.70 sec
+Total Runtime: 1.77 sec
+
+Top Product ID: B07J432CNF
+Top Product Title: CAIYUNL for Galaxy J7 Refine Case,J7 2018,Samsung J7 Top,J7 Crown,J7 Aero,J7 Aura,J7 Eon,J7 Star Glitter Sparkle Liquid Bling Quicksand Clear TPU Cover Luxury Cute Women Men Shockproof -Blue Butterfly
+Top Rerank Score: 4.22
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: brash sneakers
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 0.82 sec
+Total Runtime: 0.86 sec
+
+Top Product ID: B07K1K99DV
+Top Product Title: Brash Purple Women's Drea Lace-Up Sneaker 8.5 Regular
+Top Rerank Score: 5.87
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: アームハンマー デオドラント
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.36 sec
+Total Runtime: 1.41 sec
+
+Top Product ID: B07CKVNYN5
+Top Product Title: レセナ ドライシールド パウダースティック フルーティフローラル 20g×2 制汗剤
+Top Rerank Score: 9.37
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: correa para perros muelle
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.93 sec
+Total Runtime: 1.99 sec
+
+Top Product ID: B01LZTABDL
+Top Product Title: Happilax Correa Perro Correr Manos Libres, Extensible con Cintura Ajustable para Cargas hasta 100kg
+Top Rerank Score: 1.93
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: speck iphone xr case
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 1.72 sec
+Total Runtime: 1.85 sec
+
+Top Product ID: B07GBJNYMT
+Top Product Title: Speck Products Presidio Pro iPhone XR Case, Black/Black
+Top Rerank Score: 8.36
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: volcom flip flops women
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.69 sec
+Total Runtime: 1.75 sec
+
+Top Product ID: B07GHBJ16F
+Top Product Title: Volcom Women's Simple Synthetic Leather Strap Slide Sandal, Rose Gold, 9 B US
+Top Rerank Score: 4.87
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: magic bumpers
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.05 sec
+Reranking Time: 1.87 sec
+Total Runtime: 1.92 sec
+
+Top Product ID: B07PX3FSSR
+Top Product Title: Milliard Bed Bumper (1 Pack, Travel) Foam Safety Rail Guard with Non-Slip Hypoallergenic Water Resistant and Washable Cover, Bed Rail for Toddlers, Kids, Adults and Seniors
+Top Rerank Score: -2.23
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: forever postage stamps
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.61 sec
+Total Runtime: 1.66 sec
+
+Top Product ID: B0792KPMY9
+Top Product Title: Love Flourishes Sheet of Twenty Forever Postage Stamps Scott 5255
+Top Rerank Score: 8.14
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: dvd players for tv
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.61 sec
+Total Runtime: 1.67 sec
+
+Top Product ID: B083NCTMHL
+Top Product Title: SEMIER Region Free DVD Player, Compact Video DVD CD/Disc Player for TV, HDMI/AV Cables Included, HD 1080P, Built-in PAL/NTSC, USB/MIC Input, Coaxial Port, Remote Control
+Top Rerank Score: 7.29
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: frigorifico balay cristal blanco
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.85 sec
+Total Runtime: 1.92 sec
+
+Top Product ID: B0723DFLCJ
+Top Product Title: Balay 3KR7897BI Independiente 366L A++ Negro nevera y congelador - Frigorífico (366 L, Antiescarcha (nevera), SN-T, 14 kg/24h, A++, Negro)
+Top Rerank Score: 6.41
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: glade automatic spray refill
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 1.66 sec
+Total Runtime: 1.77 sec
+
+Top Product ID: B07XTP7WBP
+Top Product Title: Glade Automatic Spray Refill - Limited Edition - Winter Collection 2017 - Warm Flannel Embrace - Net Wt. 6.2 OZ (175 g) Per Refill Can (6 Pack)
+Top Rerank Score: 8.56
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: phone cup holder for car
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.78 sec
+Total Runtime: 1.86 sec
+
+Top Product ID: B07Q43DL14
+Top Product Title: Lorima Car Cup Holder Phone Mount, Cup Holder Phone Holder with A Long Flexible Neck for iPhone 13/13 Pro/13 Pro Max, 12 Pro Max/12/11/XS/Samsung Galaxy, Fits All 4-7in Smartphones
+Top Rerank Score: 7.47
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 2 fundas silla sin brazos
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.94 sec
+Total Runtime: 2.00 sec
+
+Top Product ID: B08VRD6KK4
+Top Product Title: Ryoizen Fundas de Sillas Comedor Elásticas,Moderna Cubierta de Silla Universal para Comedor Bouquet Hotel Cocina Restaurante Hogar Decor,1/2/4/6 Pieces Fundas Prototctora para Sillas(Negro?6 Piezas)
+Top Rerank Score: 2.59
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: oversized bears
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.13 sec
+Reranking Time: 1.74 sec
+Total Runtime: 1.88 sec
+
+Top Product ID: B07X5C459X
+Top Product Title: Vermont Teddy Bear Giant Stuffed Bear - Giant Stuffed Animal, 4 Foot, Light Blue, Cuddle
+Top Rerank Score: -0.09
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 100% cranberry juice not from concentrate
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 2.93 sec
+Reranking Time: 8.31 sec
+Total Runtime: 11.24 sec
+
+Top Product ID: B07VXCCWX6
+Top Product Title: POMONA Organic Pure Strawberry Juice, 8.4 Oz Bottle (Pack of 12), Cold Pressed Organic Juice, NonGMO, No Sugar Added, Not from Concentrate, Gluten Free, Kosher Certified, Preservative Free, 100.8 Oz
+Top Rerank Score: 3.21
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: columbia bugaboo boots men
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.94 sec
+Total Runtime: 2.03 sec
+
+Top Product ID: B07JB9CF8G
+Top Product Title: Columbia Men's Bugaboo II Pant, Burnished Amber ,Medium Regular, standard
+Top Rerank Score: 7.39
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: joystar 12 inch balance bike
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.13 sec
+Reranking Time: 2.28 sec
+Total Runtime: 2.42 sec
+
+Top Product ID: B07J5FZH77
+Top Product Title: JOYSTAR 12 Inch Balance Bike for Boys 2 3 4 5 Years Old 12" Toddler Push Bike with Footboard and Handlebar Protect Pad Child Glider Cycle Kids Slider Blue
+Top Rerank Score: 9.21
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: holiday baskets
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 2.01 sec
+Total Runtime: 2.12 sec
+
+Top Product ID: B06XWFNPWP
+Top Product Title: Leather Storage Basket,MDF Structure Wine Flowers Fruits Magazine Holder Rack/Bins,with Top Handle for Holiday Presents Gifts Display (Small, Coffee)
+Top Rerank Score: 4.16
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: adidas running shoes mens
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.09 sec
+Total Runtime: 1.18 sec
+
+Top Product ID: B071P19D3X
+Top Product Title: adidas mens Lite Racer Byd Running Shoe, Black/White/Black, 10.5 US
+Top Rerank Score: 8.73
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ハルメク8月号
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.26 sec
+Reranking Time: 2.90 sec
+Total Runtime: 3.17 sec
+
+Top Product ID: B08NJH7X71
+Top Product Title: 月刊マーチャンダイジング2017年9月号
+Top Rerank Score: 8.72
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: iphone sdカード
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.08 sec
+Total Runtime: 2.16 sec
+
+Top Product ID: B06XRX655J
+Top Product Title: iPhone iPad専用Lightning SDカードカメラリーダー 写真/ビデオ転送 microメモリSDカードリーダー(ホワイト)
+Top Rerank Score: 8.44
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: tarros de cristal con tapa
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 2.53 sec
+Total Runtime: 2.65 sec
+
+Top Product ID: B00JFWP4Q4
+Top Product Title: Brabantia 298288 - Tarro de Cristal, 0.6 L, Tapa Gris Oscuro
+Top Rerank Score: 7.75
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: michael kors iwatch band 40mm
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.07 sec
+
+Top Product ID: B07YC6DX69
+Top Product Title: Tobfit 4 Pack Compatible with Apple Watch Band 38mm 42mm 40mm 44mm, Soft Silicone Replacement Band Compatible with iWatch Series 6 5 4 3 SE (Black/Gray/Navy Blue/Wine Red, 42mm/44mm M/L)
+Top Rerank Score: 2.52
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: bose earbuds
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.64 sec
+Total Runtime: 2.71 sec
+
+Top Product ID: B07JJCW86D
+Top Product Title: Bose Soundsport Free Wireless Charging Case (Black)
+Top Rerank Score: 0.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: truck subs for ford f150
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.99 sec
+Total Runtime: 2.07 sec
+
+Top Product ID: B00M8AJ2W2
+Top Product Title: ASC FORD2X10-01-03-CREW Compatible with Ford F-150 Super Crew Truck 2001-2003 Bundle with FORD-00-03-LIFT-KIT Seat Extension Lift Kit Sub Box Enclosure
+Top Rerank Score: 3.51
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: breville hervidor
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.94 sec
+Total Runtime: 2.02 sec
+
+Top Product ID: B01B0YT0E6
+Top Product Title: Russell Hobbs Hervidor de Agua Eléctrico Textures - 2400 W, 1,7 litros, Plástico Alto Brillo, sin BPA, Filtro Extraíble, Negro - 22591-70
+Top Rerank Score: -1.41
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: cashews without peanut oil
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 3.26 sec
+Total Runtime: 3.36 sec
+
+Top Product ID: B078J54L3K
+Top Product Title: PLANTERS Fancy Whole Cashews with Sea Salt, 26 oz. Resealable Jar - Made with Simple Ingredients - Good Source of Vitamins and Minerals - Kosher
+Top Rerank Score: 2.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: kids watches girls
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.20 sec
+Reranking Time: 2.15 sec
+Total Runtime: 2.35 sec
+
+Top Product ID: B07G5JFH5Q
+Top Product Title: Skechers Kids Girl's Twinkle Breeze 2.0-Sparkle DU Sneaker, Silver/Multi, 3 Medium US Little Kid
+Top Rerank Score: 5.57
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 12 inch shelf braces
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.64 sec
+Total Runtime: 2.74 sec
+
+Top Product ID: B087BX54TY
+Top Product Title: Shelf Brackets 12 Inch, Heavy Duty Industrial Iron Floating Shelf Bracket, Decorative Rustic Farmhouse Metal L Bracket with Lips - 4 Pack
+Top Rerank Score: 4.99
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: free solo film
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.07 sec
+Total Runtime: 2.15 sec
+
+Top Product ID: B082M3QQZ2
+Top Product Title: 4 Pieces Car Rearview Mirror Film Rainproof Waterproof Mirror Film Anti Fog Clear Nano Coating Car Film for Car Rear View Mirrors Side Windows
+Top Rerank Score: -6.97
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: zoom
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.40 sec
+Total Runtime: 2.47 sec
+
+Top Product ID: B01MTJ20QY
+Top Product Title: Zoom Q2n Zoom Handy Video Recorder (Black)
+Top Rerank Score: 3.27
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: キーbox ダイヤル式
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 0.93 sec
+Total Runtime: 1.08 sec
+
+Top Product ID: B00NEJ5YR8
+Top Product Title: ノムラテック カギの収納BOX NEW キーストック ハンディ シルバー N-1297
+Top Rerank Score: 8.51
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: オムツ替え
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.19 sec
+Reranking Time: 2.17 sec
+Total Runtime: 2.37 sec
+
+Top Product ID: 4905122678
+Top Product Title: おやさいどうぞ (0〜5歳児向け コクヨのしかけ絵本)
+Top Rerank Score: 8.93
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: hogue pistol grip
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.97 sec
+Total Runtime: 2.07 sec
+
+Top Product ID: B004WYH00S
+Top Product Title: Hogue 17210 HandAll Grip Sleeve, Tactical, Large Black, Multi
+Top Rerank Score: 7.28
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: race car onesie
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.35 sec
+Total Runtime: 2.43 sec
+
+Top Product ID: B07TYV23CJ
+Top Product Title: Racing is in My DNA -Cute Car Racing Outdoor Sports Baby Bodysuit Onesie & bib Pink
+Top Rerank Score: 3.70
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: women soccer shin guards
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.14 sec
+Total Runtime: 2.23 sec
+
+Top Product ID: B07LHJQYBN
+Top Product Title: adidas X PRO Soccer Shin Guards , Bright Cyan/Black/Shock Pink , L
+Top Rerank Score: 3.01
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: mind game
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.21 sec
+Reranking Time: 2.07 sec
+Total Runtime: 2.27 sec
+
+Top Product ID: B08SJ33S4K
+Top Product Title: 31 Pieces Brain Teaser Metal and Wooden Puzzle Set, Unlock Interlock Intelligence Game Brain Handheld Disentanglement Game 3D Wire Chain and Durable Wood Educational IQ Logic Test Wooden Toy for Adult
+Top Rerank Score: -3.64
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: haka
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.04 sec
+Total Runtime: 1.11 sec
+
+Top Product ID: B00TRZ0KAE
+Top Product Title: HAKU(ハク) ハク アクティブメラノリリーサー (つめかえ用) 美白化粧水 100mL 【医薬部外品】 レフィル 100ミリリットル (x 1)
+Top Rerank Score: 2.07
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: mb series massage chair
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.03 sec
+Total Runtime: 2.12 sec
+
+Top Product ID: B088NB61MZ
+Top Product Title: Massage Chair, Zero Gravity Massage Chair, Full Body Shiatsu Massage Recliner with Heat Function, Foot Roller, Led Light, LCD Wired Remote Control, Elastic Calves Section, Black
+Top Rerank Score: 0.03
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: colgante diamantes
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.95 sec
+Total Runtime: 2.02 sec
+
+Top Product ID: B00492BDLU
+Top Product Title: Tuscany Silver 8.44.7594 Cadena con colgante de plata, diamante (0.04), 46 cm, Letra R
+Top Rerank Score: 3.55
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: エギングホルダー
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 2.21 sec
+Total Runtime: 2.27 sec
+
+Top Product ID: B07MX3H9GK
+Top Product Title: エギホルダー用 エギ安全カバー エギング 6個セット カラビナ付き イカメタル スッテ プラ角などに ワンロック ランダムカラー
+Top Rerank Score: 8.38
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: non slip socks for toddlers boys
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.04 sec
+Total Runtime: 2.13 sec
+
+Top Product ID: B06XJYF2LZ
+Top Product Title: LA Active Newborn Baby Socks 12-36 Months - 6 Pairs of Infant & Toddler Socks for Girls and Boys with Non-Slip Grip - Ankle Style - Boys
+Top Rerank Score: 8.09
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 16 mm manguera sin gotero
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.95 sec
+Total Runtime: 2.03 sec
+
+Top Product ID: B098K71ZH2
+Top Product Title: spaire Manguera/Tubería de Jardín, para Goteo/Riego Individual con Juego Completo de Accesorios, Manguera Flexible Porosa Riego, 13mm x 50 m, Materia Reciclada, Negro
+Top Rerank Score: 1.34
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: gh plancha pelo
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.33 sec
+Total Runtime: 2.42 sec
+
+Top Product ID: B08Y98WBS5
+Top Product Title: ghd max - Plancha de pelo profesional con placas anchas para cabello largo, grueso o rizado, tecnología dual zone, negra
+Top Rerank Score: 7.24
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: dry rub
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.99 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B0968GJC67
+Top Product Title: Dazzle Dry Nail Lacquer - Foxy, a full coverage warm, light gray. Full coverage cream. (0.5 fl oz)
+Top Rerank Score: -2.35
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: blue giant
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.95 sec
+Total Runtime: 2.01 sec
+
+Top Product ID: B00QMEE06S
+Top Product Title: BLUE GIANT（３） (ビッグコミックス)
+Top Rerank Score: 7.73
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: acrodisc syringe filter 0.2
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.15 sec
+Reranking Time: 2.28 sec
+Total Runtime: 2.44 sec
+
+Top Product ID: B071JXY9Q4
+Top Product Title: Pall 4652 Acrodisc Syringe Filters with Super Membrane, Sterile, 0.2 µm, 32mm, Pack of 50
+Top Rerank Score: 6.82
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: baby christmas sleeper
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.95 sec
+Total Runtime: 2.02 sec
+
+Top Product ID: B081XBFLQ6
+Top Product Title: Kuriozud Newborn Baby Girl Boy Footed Sleeper Reindeer One Piece Romper Jumpsuit Clothes (Christmas Footed Romper, 0-3 Months)
+Top Rerank Score: 5.02
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: luz de anillo pra fotos
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.21 sec
+Total Runtime: 2.30 sec
+
+Top Product ID: B07RXV83DB
+Top Product Title: Flybiz LED Luz de Anillo con Trípode Palillo de Selfie, Mini luz de Anillo LED de Escritorio Regulable de 10W 2800K-5500K, Video de Youtube y Maquillaje Selfie, Kit de Luces de Anillo
+Top Rerank Score: 3.60
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: surtido galletas sin azucar
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.11 sec
+
+Top Product ID: B08PBLF38D
+Top Product Title: MILOLA Galletas Gluten Free. Pack 6 Cajas de 140gr - Sin Gluten, Sin Lácteos, Sin Aceite de Palma (HAZELNUT + CHOCO XIPS)
+Top Rerank Score: 2.26
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ge animation
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.04 sec
+Total Runtime: 1.11 sec
+
+Top Product ID: B01AZC61XC
+Top Product Title: GE Animation GE-52694 Sword Art Online 9" Lizbeth Stuffed Plush, Multi-Colored
+Top Rerank Score: 7.40
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 日本自然発酵
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.76 sec
+Total Runtime: 1.82 sec
+
+Top Product ID: B0031Y7HHG
+Top Product Title: 白井産業 日本製 ミニサイズベビー敷布団 60cm×90cm 固綿 二つ折れタイプ ホワイト 107434
+Top Rerank Score: 9.03
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: full/queen fitted sheet
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.24 sec
+Total Runtime: 2.32 sec
+
+Top Product ID: B019J3R8AS
+Top Product Title: Bare Home Fitted Bottom Sheet Queen - Premium 1800 Microfiber - Ultra-Soft Wrinkle Free - Deep Pocket - Queen Fitted Sheet (Queen, Dark Blue)
+Top Rerank Score: 7.47
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: バターケース
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 0.62 sec
+Total Runtime: 0.69 sec
+
+Top Product ID: B00V4OP0JM
+Top Product Title: バンドファイル リングタイプ 20ポケット(40ページ) パープル
+Top Rerank Score: 8.80
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: autel im608 pro
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B07F2QZ6MM
+Top Product Title: Autel MaxiDiag MD808 Pro with 5ft Extension Cable All System OBDII Scanner(Advanced MaxiCheck Pro and MD802) Oil and Battery Reset Registration, Parking Brake Pad Relearn,SAS,SRS,ABS,EPB,DPF,BMS
+Top Rerank Score: 4.60
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: sleeping bag kids
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.25 sec
+Total Runtime: 2.32 sec
+
+Top Product ID: B07ZPF1JYL
+Top Product Title: LOL Surprise Giftable Sleepover Set with Sleeping Bag, Pillow & Bonus Eye Mask, Ages 3+, Pink
+Top Rerank Score: 5.33
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 4 libretas medida folio de cuadrícula sin espiral
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.09 sec
+
+Top Product ID: B089KKFKSS
+Top Product Title: Miquelrius - Pack 5 Cuadernos Cuadriculados, Tamaño Folio 215 x 309 mm, Espiral, Cubierta de Polipropileno Translúcido, 80 Hojas de 90 g/m², Cuadrícula de 4 mm con Margen, Mensajes, Multicolor
+Top Rerank Score: 5.06
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: futuro back support for men
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.94 sec
+Total Runtime: 2.03 sec
+
+Top Product ID: B07DDDCWSM
+Top Product Title: ProFitness Weightlifting Belt (4 Inches Wide) – Genuine Leather Lifting Belt - Great Back Support during Squats, Deadlifts, Lunges, Cross Training & Weight Training (Black/White, MEDIUM)
+Top Rerank Score: -1.11
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: monster high
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.26 sec
+Total Runtime: 2.33 sec
+
+Top Product ID: B00TYJV6EW
+Top Product Title: Monster High Fright-Mares Skyra Bouncegait Doll
+Top Rerank Score: 6.67
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: plus size skeleton leggings
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B0895D5JZ1
+Top Product Title: Handyulong Womens Ripped Skinny Jeans High Waisted Stretch Destroyed Denim Pants Slim Pencil Pants Jegging Sweatpants
+Top Rerank Score: 0.06
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: lace white dress for maternity photoshooy
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.96 sec
+Total Runtime: 2.05 sec
+
+Top Product ID: B07DXSCM5N
+Top Product Title: Jezero Women's Maternity Dress Off Shoulder Ruffle Sleeveless Bodycon Dress for Baby Shower
+Top Rerank Score: 2.27
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: pastillas barbacoa
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.18 sec
+Reranking Time: 2.29 sec
+Total Runtime: 2.47 sec
+
+Top Product ID: B00Q54PNQ6
+Top Product Title: FUEGO NET Fuegonet 231281N Pastillas Ecológicas, Blanco, 27x7x40 cm
+Top Rerank Score: -0.81
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: volleyball
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.95 sec
+Total Runtime: 2.02 sec
+
+Top Product ID: B078BFTWFY
+Top Product Title: Nike Womens Zoom Hyperace 2 Volleyball Shoe (7.5 M US, Black/White)
+Top Rerank Score: 1.89
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 1 cinturones sin hebilla
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.06 sec
+Total Runtime: 2.14 sec
+
+Top Product ID: B07YDC3MZS
+Top Product Title: Chalier 2 Pack Cinturon Hombre Lona de Nylon Tela Infinitamente Ajustable, Longitud 130 cm, con Hebilla Automática
+Top Rerank Score: 3.40
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: la la land vinyl
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.11 sec
+Reranking Time: 2.13 sec
+Total Runtime: 2.24 sec
+
+Top Product ID: B000091Y4V
+Top Product Title: Wasted years/Stranger in a strange land [Vinyl Single]
+Top Rerank Score: -6.93
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ミツカン 黒酢りんご
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.20 sec
+Total Runtime: 1.27 sec
+
+Top Product ID: B003MTZJIE
+Top Product Title: マギー ココナッツミルク1KG
+Top Rerank Score: 9.38
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: snow joe snow blower cordless
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.97 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B00LK2SASQ
+Top Product Title: Snow Joe iON13SS 40-Volt iONMAX Cordless Brushless Snow Shovel Kit | 13-Inch | W/ 4.0-Ah Battery and Charger
+Top Rerank Score: 7.06
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: sundown audio 12 inch subwoofer
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 2.34 sec
+Total Runtime: 2.46 sec
+
+Top Product ID: B01NCIG4EX
+Top Product Title: SUNDOWN AUDIO SA-12 V.2 D4 12" Dual 4 OHM 1000W RMS SUBWOOFER BASS Speaker New
+Top Rerank Score: 6.67
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: celtic eucharist
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.01 sec
+Total Runtime: 2.09 sec
+
+Top Product ID: B002BJX10Y
+Top Product Title: Belfast Centenary Eucharist: Sanctus
+Top Rerank Score: -1.25
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: タミヤ メタルプライマー
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 0.41 sec
+Total Runtime: 0.48 sec
+
+Top Product ID: B0000WS03M
+Top Product Title: タミヤ スプレー No.19 TS-19 メタリックブルー プラモデル用塗料 85019
+Top Rerank Score: 9.34
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: heavy sweaters for women
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.28 sec
+Total Runtime: 2.37 sec
+
+Top Product ID: B07GZR5YM4
+Top Product Title: ECOWISH Women's Sweater Rainbow Colorful Striped Sweaters Long Sleeve Crew Neck Color Block Casual Pullover Blouse Tops Navy Blue X-Large
+Top Rerank Score: 4.95
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: perchas bebe pequeñas madera
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.00 sec
+Total Runtime: 2.09 sec
+
+Top Product ID: B07D2KHBRV
+Top Product Title: Hangerworld 12 Perchas de Madera Blanca 30cm para Ropa Infantil Pinzas de Metal para Pantalones Decorada con Animalitos
+Top Rerank Score: 3.30
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: garden of life
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.91 sec
+Total Runtime: 2.00 sec
+
+Top Product ID: B00WS2O9QE
+Top Product Title: Garden of Life Raw Organic Fit Powder - Coffee, Organic & Non-GMO Vegan Nutritional Shake, 10 Servings, 16.40 Ounce
+Top Rerank Score: 6.22
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: rip jeans
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 2.05 sec
+Total Runtime: 2.11 sec
+
+Top Product ID: B07VFYY571
+Top Product Title: Men's Ripped Distressed Destroyed Slim Fit Straight Leg Denim Jeans,305 Light Blue,Size 32
+Top Rerank Score: 5.19
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: メンズ モコモコパジャマ
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.05 sec
+
+Top Product ID: B08CBX5S1H
+Top Product Title: ビックサイズでエコバッグにも リラックマ バッグコレクション フルコンプ5種セット コリラックマ キイロイトリ
+Top Rerank Score: 8.65
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 睦月影郎
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.31 sec
+Total Runtime: 1.37 sec
+
+Top Product ID: B016K0YQIK
+Top Product Title: 月桂冠 山田錦純米パック [ 日本酒 京都府 1.8L ]
+Top Rerank Score: 8.43
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: lsbrador retriever christmas cards
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.20 sec
+Total Runtime: 2.28 sec
+
+Top Product ID: B00XUSJXZC
+Top Product Title: Labrador Retriever - Set of 10 Note Cards with Envelopes
+Top Rerank Score: -0.73
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: chillum pipe
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.00 sec
+Total Runtime: 2.08 sec
+
+Top Product ID: B08X94G4R1
+Top Product Title: 2-Pack Evo Dyne Pipe Cleaner (32oz), Made in the USA | Universal Piece Cleaner | Safe on Glass, Pyrex, Silicone, Ceramics, Metals - Removes Tar & Resin with Soak and Rinse Formula
+Top Rerank Score: -3.49
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 3d scanner for 3d printer
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.99 sec
+Total Runtime: 2.09 sec
+
+Top Product ID: B076B9SXK8
+Top Product Title: HE3D Open Source Ciclop DIY 3D Systems Scanner Kit for 3D Printer Advanced Laser Scanner, Injection molding Plastics Parts
+Top Rerank Score: 7.97
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: iphone car holder
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.30 sec
+Total Runtime: 2.38 sec
+
+Top Product ID: B07Q43DL14
+Top Product Title: Lorima Car Cup Holder Phone Mount, Cup Holder Phone Holder with A Long Flexible Neck for iPhone 13/13 Pro/13 Pro Max, 12 Pro Max/12/11/XS/Samsung Galaxy, Fits All 4-7in Smartphones
+Top Rerank Score: 5.24
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: american outdoor grills
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.93 sec
+Total Runtime: 2.07 sec
+
+Top Product ID: B07B8SYB35
+Top Product Title: AOG American Outdoor Grill Cover for 36-Inch Freestanding Gas Grills - CC36-D
+Top Rerank Score: 8.54
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: apple dongle
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 2.07 sec
+Total Runtime: 2.17 sec
+
+Top Product ID: B07HHFT4Z2
+Top Product Title: Dongle Dangler 3.5mm Headphone Jack Adapter - Works with iPhone -13/ 13 Pro/ 12/ 12 Pro Max/ 11/ 11 Pro/ 11 Pro Max/ XS/ XS Max/ XR/ X/ 8/ 8 Plus/ 7/ 7 Plus - MFi Certified Adapter (Cable-1 Pack)
+Top Rerank Score: 3.27
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: sleeping bag wide
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.40 sec
+Total Runtime: 2.48 sec
+
+Top Product ID: B01EBCY4AY
+Top Product Title: Hyke & Byke Quandary 650 Fill Power Duck Down 15 Degree Backpacking Sleeping Bag for Adults Cold Weather Sleeping Bag - Synthetic Base - Ultra Lightweight 3 Season Camping Sleeping Bags for Kids Too
+Top Rerank Score: 3.72
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: trough sinks for bathroom
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.97 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B084JS1HFH
+Top Product Title: Weibath 47 Inch Wall-Mount Double Sink Stone Resin Trough Bathroom Sink with 2 Faucet Holes (Glossy White)
+Top Rerank Score: 4.91
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: play it again sam
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.27 sec
+Total Runtime: 1.35 sec
+
+Top Product ID: B012WFLFL8
+Top Product Title: Bob Books Happy Hats Beginning Reading Game Line
+Top Rerank Score: -4.09
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: call of duty modern warfare
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.27 sec
+Total Runtime: 1.36 sec
+
+Top Product ID: B07SC443KW
+Top Product Title: Xbox One - Call of Duty: Modern Warfare - [PAL EU - NO NTSC]
+Top Rerank Score: 7.07
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: wine rack wall set of 5
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.09 sec
+Reranking Time: 1.97 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B08BDK19G3
+Top Product Title: Hin Plus Wine Rack Wall Mounted | Wine Bottle Holder | House & Kitchen & Dining Room Wall Decor (5 Pack, Style B)
+Top Rerank Score: 6.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 首 サポーター
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.83 sec
+Total Runtime: 1.89 sec
+
+Top Product ID: 4569827276
+Top Product Title: ハーバードでいちばん人気の国・日本 なぜ世界最高の知性はこの国に魅了されるのか (PHP新書)
+Top Rerank Score: 8.71
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: ふるたんぐないふ
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 2.24 sec
+Total Runtime: 2.31 sec
+
+Top Product ID: B08HYXNNH5
+Top Product Title: りぶはあと ルームシューズ プレミアムねむねむアニマルズ パグのハナ(23-24.5cm) かわいい 洗える 78106-32
+Top Rerank Score: 8.96
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: seattle seahawks sweatpants
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.88 sec
+Total Runtime: 1.95 sec
+
+Top Product ID: B01MTKZ0HQ
+Top Product Title: Ultra Game NFL Washington Redskins Mens Jogger Pants Active Basic Fleece Sweatpants, Team Color, Large
+Top Rerank Score: -0.86
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 変態王子と笑わない猫
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 0.81 sec
+Total Runtime: 0.87 sec
+
+Top Product ID: B00I0LKRE0
+Top Product Title: 変態王子と笑わない猫。5 (MFコミックス アライブシリーズ)
+Top Rerank Score: 8.89
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: closet organizers and storage bins
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.97 sec
+Total Runtime: 2.06 sec
+
+Top Product ID: B07BB316N7
+Top Product Title: Sorbus Storage Bins, Foldable Stackable Container Organizer Set with Large Window & Carry Handles, Bedroom Closet Organization for Bedding, Linen, Clothes (Gray)
+Top Rerank Score: 7.01
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: grey shaggy rug for bedroom
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.12 sec
+Reranking Time: 2.10 sec
+Total Runtime: 2.22 sec
+
+Top Product ID: B08CC3YDFY
+Top Product Title: Navy Blue Soft Area Rug for Bedroom,5x8,Fluffy Rugs,Furry Rugs for Living Room,Shaggy Rugs for Girls Boys Room,Fuzzy Rug for Kids Baby Room,Plush Rug for Dorm Nursery,Non-Slip Rug,Navy Blue Carpet
+Top Rerank Score: 5.31
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: fujifilm x-a5
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.05 sec
+
+Top Product ID: B07X2K426H
+Top Product Title: Neewer Cargador Batería Juego Reemplazo para NP-W126 Compatible con Fujifilm X-T3 X-T2 X-T1 X-A5 X-E3 X-E2 X-E1 X100F X-H1 X-M1 X-Pro2 X-T20 (1500mAh Batería Doble USB)
+Top Rerank Score: 4.84
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: jacket
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 2.16 sec
+Total Runtime: 2.23 sec
+
+Top Product ID: B01K5U1FMG
+Top Product Title: Columbia Mens Big & Tall Granite Mountain Fleece Jacket (1X, Black)
+Top Rerank Score: 3.40
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: aaron blakey
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.10 sec
+Reranking Time: 1.99 sec
+Total Runtime: 2.10 sec
+
+Top Product ID: B08M8KS9BW
+Top Product Title: Victim F: From Crime Victims to Suspects to Survivors
+Top Rerank Score: -3.62
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: all white jordans for men
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.82 sec
+Total Runtime: 1.91 sec
+
+Top Product ID: B01JIPH7H6
+Top Product Title: Nike Men's Sportwear Club Shorts, Dark Grey Heather/White, X-Large
+Top Rerank Score: -2.48
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: black vinyl placemat
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.23 sec
+Total Runtime: 2.30 sec
+
+Top Product ID: B096JVGQZQ
+Top Product Title: fadumnle Placemats and Coasters， Set of 6 Heat-Resistant Stain Resistant Non-Slip Placemats for Kitchen Table, Washable Durable PVC Table Mats Woven Vinyl Placemats Black…
+Top Rerank Score: 3.94
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: durexina
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.90 sec
+Total Runtime: 1.96 sec
+
+Top Product ID: B077S2FVYG
+Top Product Title: OLIVER Caja 2 figuras 12 cm Durexina. (pastor horca)
+Top Rerank Score: 5.25
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 耐熱 樹脂
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 1.99 sec
+Total Runtime: 2.05 sec
+
+Top Product ID: B01LEBRLEG
+Top Product Title: カーポート用 雨どい部品 雨樋 丸どい(37φ用) 長さ 2m (ブラック)
+Top Rerank Score: 7.82
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: j7 crown phone case pink camo
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.26 sec
+Total Runtime: 2.34 sec
+
+Top Product ID: B07J432CNF
+Top Product Title: CAIYUNL for Galaxy J7 Refine Case,J7 2018,Samsung J7 Top,J7 Crown,J7 Aero,J7 Aura,J7 Eon,J7 Star Glitter Sparkle Liquid Bling Quicksand Clear TPU Cover Luxury Cute Women Men Shockproof -Blue Butterfly
+Top Rerank Score: 4.22
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: brash sneakers
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 0.92 sec
+Total Runtime: 0.99 sec
+
+Top Product ID: B07K1K99DV
+Top Product Title: Brash Purple Women's Drea Lace-Up Sneaker 8.5 Regular
+Top Rerank Score: 5.87
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: アームハンマー デオドラント
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.60 sec
+Total Runtime: 1.67 sec
+
+Top Product ID: B07CKVNYN5
+Top Product Title: レセナ ドライシールド パウダースティック フルーティフローラル 20g×2 制汗剤
+Top Rerank Score: 9.37
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: correa para perros muelle
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.06 sec
+Total Runtime: 2.14 sec
+
+Top Product ID: B01LZTABDL
+Top Product Title: Happilax Correa Perro Correr Manos Libres, Extensible con Cintura Ajustable para Cargas hasta 100kg
+Top Rerank Score: 1.93
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: speck iphone xr case
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.16 sec
+Reranking Time: 1.98 sec
+Total Runtime: 2.16 sec
+
+Top Product ID: B07GBJNYMT
+Top Product Title: Speck Products Presidio Pro iPhone XR Case, Black/Black
+Top Rerank Score: 8.36
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: volcom flip flops women
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.96 sec
+Total Runtime: 2.03 sec
+
+Top Product ID: B07GHBJ16F
+Top Product Title: Volcom Women's Simple Synthetic Leather Strap Slide Sandal, Rose Gold, 9 B US
+Top Rerank Score: 4.87
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: magic bumpers
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.06 sec
+Reranking Time: 2.21 sec
+Total Runtime: 2.27 sec
+
+Top Product ID: B07PX3FSSR
+Top Product Title: Milliard Bed Bumper (1 Pack, Travel) Foam Safety Rail Guard with Non-Slip Hypoallergenic Water Resistant and Washable Cover, Bed Rail for Toddlers, Kids, Adults and Seniors
+Top Rerank Score: -2.23
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: forever postage stamps
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 1.86 sec
+Total Runtime: 1.93 sec
+
+Top Product ID: B0792KPMY9
+Top Product Title: Love Flourishes Sheet of Twenty Forever Postage Stamps Scott 5255
+Top Rerank Score: 8.14
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: dvd players for tv
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 1.86 sec
+Total Runtime: 1.94 sec
+
+Top Product ID: B083NCTMHL
+Top Product Title: SEMIER Region Free DVD Player, Compact Video DVD CD/Disc Player for TV, HDMI/AV Cables Included, HD 1080P, Built-in PAL/NTSC, USB/MIC Input, Coaxial Port, Remote Control
+Top Rerank Score: 7.29
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: frigorifico balay cristal blanco
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.07 sec
+Reranking Time: 2.19 sec
+Total Runtime: 2.27 sec
+
+Top Product ID: B0723DFLCJ
+Top Product Title: Balay 3KR7897BI Independiente 366L A++ Negro nevera y congelador - Frigorífico (366 L, Antiescarcha (nevera), SN-T, 14 kg/24h, A++, Negro)
+Top Rerank Score: 6.41
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: glade automatic spray refill
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 2.19 sec
+Total Runtime: 2.27 sec
+
+Top Product ID: B07XTP7WBP
+Top Product Title: Glade Automatic Spray Refill - Limited Edition - Winter Collection 2017 - Warm Flannel Embrace - Net Wt. 6.2 OZ (175 g) Per Refill Can (6 Pack)
+Top Rerank Score: 8.56
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: phone cup holder for car
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.13 sec
+Reranking Time: 2.28 sec
+Total Runtime: 2.41 sec
+
+Top Product ID: B07Q43DL14
+Top Product Title: Lorima Car Cup Holder Phone Mount, Cup Holder Phone Holder with A Long Flexible Neck for iPhone 13/13 Pro/13 Pro Max, 12 Pro Max/12/11/XS/Samsung Galaxy, Fits All 4-7in Smartphones
+Top Rerank Score: 7.47
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: 2 fundas silla sin brazos
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.17 sec
+Reranking Time: 2.86 sec
+Total Runtime: 3.04 sec
+
+Top Product ID: B08VRD6KK4
+Top Product Title: Ryoizen Fundas de Sillas Comedor Elásticas,Moderna Cubierta de Silla Universal para Comedor Bouquet Hotel Cocina Restaurante Hogar Decor,1/2/4/6 Pieces Fundas Prototctora para Sillas(Negro?6 Piezas)
+Top Rerank Score: 2.59
+
+HYBRID RERANK SEARCH REPORT
+===========================
+
+Query: oversized bears
+Candidate Pool Size: 20
+Final Top K: 10
+
+Hybrid Search Time: 0.08 sec
+Reranking Time: 3.03 sec
+Total Runtime: 3.11 sec
+
+Top Product ID: B07X5C459X
+Top Product Title: Vermont Teddy Bear Giant Stuffed Bear - Giant Stuffed Animal, 4 Foot, Light Blue, Cuddle
+Top Rerank Score: -0.09
+
